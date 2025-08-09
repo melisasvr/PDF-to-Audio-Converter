@@ -11,16 +11,7 @@
 - ⚡ **Background Processing**: Non-blocking conversion with threading
 - 🛡️ **Error Handling**: Robust error handling with detailed feedback
 
-## Screenshots
-
-The application features a clean, modern interface with:
-- File selection and management area
-- Voice settings panel
-- Output configuration options
-- Real-time progress tracking
-
 ## Requirements
-
 ### Python Version
 - Python 3.6 or higher
 
